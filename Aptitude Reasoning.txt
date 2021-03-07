@@ -58,3 +58,98 @@ procedure:
 136*3+9  yeilds  417
 
 Similarly 417*2+4 yeilds 838
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Alligation or Mixture
+https://www.sawaal.com/alligation-or-mixture-questions-and-answers/a-mixture-of-150-liters-of-wine-and-water-contains-20-water-how-much-more-water-should-be-added-so-t_11874
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Every 10 minutes a bus departs from Mumbai for Pune. Also every 15 minutes a bus departs from Mumbai for Thane. At 9 am, two buses simultaneously depart from Mumbai for Pune and Thane. What will be the next instance of time when two buses will simultaneously depart from Mumbai for Pune and Thane?
+
+Every 10 minutes a bus departs from Mumbai to Pune.
+Every 15 minutes a bus departs from Mumbai to Thane
+
+LCM of 10 and 15 = 30
+Every 30 minutes two buses simultaneously depart from Mumbai to Pune and Thane.
+
+If two buses depart at 9 am, the next instance of time that two buses will simultaneously depart is 9:30 am.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+A person writes a letter to four of his friends. He asks each one of them to copy the letter and mail to four different persons with instruction that they move the chain similarly. Assuming that the chain is not broken and that it costs 50 paise to mail one letter. Find the amount spent on the postage when 8th set of letter is mailed.
+
+1st set of letters = 4 friends
+
+2nd set of letters = 4² friends
+
+3rd set of letters = 4³ friends
+
+....
+
+Therefore 8th set of letters will be sent out to 4⁸ friends
+
+
+Find the total number of letters sent:
+
+Total letters sent out = 4 + 4² + 4³ + 4⁴ + 4⁵ + 4⁶ + 4⁷ + 4⁸ = 87380
+
+
+Find the total cost:
+
+1 letter = Rs 0.50
+
+87380 letters = 87380 x Rs 0.50 = Rs 43690
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+https://www.campusgate.in/2013/10/vocab-test-32.html
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+https://idioms.thefreedictionary.com/beat+a+dead+horse
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Two dice are rolled simultaneously, what is the probability of getting a total of 10?
+
+
+10	3	8.33%
+
+???????????????????????????????????????????????????????????????????????????????????
+
+Two dice are rolled simultaneously, what is the probability of getting a total of 10?
+10	3	8.33%
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+https://www.shaalaa.com/question-bank-solutions/the-probability-that-certain-person-will-buy-shirt-02-probability-that-he-will-buy-trouser-03-probability-that-he-will-buy-shirt-given-that-he-buys-trouser-04-probability-examples-solutions_47993
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+A number of saplings are lying at a place by the side of a straight road. These are to be planted in a straight line at a distance interval of 10 meters between two consecutive saplings. John, the forester, can carry only one sapling at a time and has to move back to the original point to get the next sapling. In this manner he covers a total distance of 1320 meters. How many saplings does he plant in the process if he ends at the starting point?
+
+A. 10
+B. 11
+C. 12
+D. 13
+E. 14
+Answer:
+Firstly it is slightly unclear whether he plants a sapling at the start point or starts at 10m from the start point.
+
+Travel time for first sapling = 2*10
+Travel time for second sapling = 2*20
+Travel time for third sapling = 2*30
+.....
+Travel time for nth sapling = 2*10n
+
+So total distance = 2*10+2*20+2*30+.....2*10n = 1320
+\(2(10+20+30+...10n)=1320........20(1+2+3+...n)=1320........20*\frac{n(n+1)}{2}=1320...........n(n+1)=132=12*11\)
+Thus, n = 11.
+
+If he starts planting from 10 m from start point, the answer is 11, but if he plants the first sapling at the start point, then answer is 12.
+
+I would assume that the first sapling is at the start point, so answer is 12.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+https://www.examveda.com/this-is-one-of-the-most-important-inventions-of-this-century-26179/

@@ -8,6 +8,6 @@
 ![alt text](https://github.com/mayank0rastogi/Reasoning/blob/main/logic-reas-2.jpg)
 3:
 ![alt text](https://github.com/mayank0rastogi/Reasoning/blob/main/reasoning-3.jpg)
-
-
+4:
+![alt text](https://github.com/mayank0rastogi/Reasoning/blob/main/reasoning-4.PNG)
 
